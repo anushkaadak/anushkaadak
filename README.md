@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Adak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaadak&label=Profile%20views&color=0e75b6&style=plastic" alt="anushkaadak" /> </p>
 
@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **DSA, OOPs, DBMS**
 
-- 👯 I’m looking to collaborate on **Blockchain**
-
-- 🤝 I’m looking for help with **Blockchain and Deep Learning**
+- 🤝 I’m looking for help with **Machine Learning and Deep Learning**
 
 - 💬 Ask me about **anything (I'll Google it)**
 
